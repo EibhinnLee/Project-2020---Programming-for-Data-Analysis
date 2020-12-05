@@ -1,0 +1,114 @@
+Rating,Name,Distance,Bred,Location,Age,Novice,Sex 
+173,Al Boum Photo,Staying,French,IRE,8,N,Male
+173,Cyrname,Intermedate,French,UK,8,N,Male
+172,Santini,Staying,British,UK,8,N,Male 
+172,Chacun Pour Soi,Minimum,French,IRE,8,N,Male
+171,Clan des Obeaux,Staying,French,UK,8,N,Male
+171,Altior,Intermediate,Irish,UK,10,N,Male
+171,Lostintranslation,Staying,Irish,UK,8,N,Male
+171,Monalee,Staying,Irish,IRE,9,N,Male
+170,Delta Work,Staying, French,IRE,7,N,Male
+169,Bristol de Mai,Staying,French,UK,9,N,Male
+169,Min,Intermediate,French,IRE,9,N,Male
+169,Defi du Seuil,Minimum,French,UK,7,N,Male
+169,Politologue,Minimum,French,UK,9,N,Male
+168,Kemboy,Staying,French,IRE,8,N,Male
+168,Ballyoisin,Minimum,Irish,IRE,9,N,Male
+167,Saint Calvados,Intermeidate,French,UK,7,N,Male
+167,A Plus Tard,Minimum,French,IRE,6,N,Male
+166,Native River,Staying,Irish,UK,10,N,Male
+166,Real Steel,Intermediate,French,IRE,7,N,Male
+166,Road To Respect,Staying,Irish,IRE,9,N,Male
+165,Presenting Percy,Staying,British,IRE,9,N,Male
+164,Chris’s Dream,Intermediate,Irish,IRE,8,N,Male
+164,Janika,Minimum,French,UK,7,N,Male
+164,Un de Sceaux,Minimum,French,IRE,12,N,Male
+163,Ballyoptic,Staying,Irish,IRE,10,N,Male
+163,Douvan,Intermediate,French,IRE,10,N,Male
+163,Cilaos Emery,Minimum,French,IRE,8,N,Male
+163,Sceau Royal,Minimum,French,UK,8,N,Male
+163,Waiting Patiently,Minimum,Irish,UK,9,N,Male
+162,Top Ville Ben,Staying,Irish,UK,8,N,Male
+162,Riders Onthe Storm,Intermediate,Irish,UK,7,N,Male
+161,Black Corton,Staying,French,UK,9,N,Male
+161,Kalashnikov,Intermediate,Irish,UK,7,N,Male
+161,Dolos,Minimum,French,UK,7,N,Male
+161,Champ,Staying,Irish,UK,8,Y,Male
+161,Vinndication,Staying,Irish,IRE,7,N,Male
+160,Definitly Red,Staying,Irish,UK,11,N,Male
+160,Frodon,Intermediate,French,UK,8,N,Male
+160,Dynamite Dollars,Minimum,French,UK,7,N,Male
+160,Elegant Escape,Staying,Irish,IRE,8,N,Male
+160,Hardline,Minimum,Irish,IRE,8,N,Male
+160,Fakir d’Oudairies,Minimum,French,IRE,5,Y,Male
+160,Jett,Staying,Irish,IRE,9,N,Male
+160,Samcro,Intermediate,Irish,IRE,8,Y,Male
+160,Minella Indo,Staying,French,IRE,7,Y,Male
+159,Allaho,Staying,French,IRE,6,Y,Male
+159,Melon,Intermediate,British,IRE,8,Y,Male
+159,Duc des Genievres,Minimum,French,IRE,7,N,Male
+159,Alpha des Obeaux,Staying,French,IRE,10,N,Male
+159,Simply Ned,Minimum,Irish,UK,13,N,Male
+158,Acapella Bourgeois,Minimum,French,IRE,10,N,Male
+158,Faugheen,Intermediate,Irish,IRE,12,Y,Male
+158,Bun Doran,Minimum,Irish,UK,9,N,Male
+158,Beware The Bear,Staying,Irish,UK,10,N,Male 
+158,Footpad,Intermediate,French,IRE,8,N,Male
+158,Notebook,Minimum,German,IRE,7,Y,Male
+158,Total Recall,Staying,Irish,IRE,11,N,Male
+158,Peregrine Run,Intermediate,Irish,IRE,10,N,Male
+158,Traffic Fluide,Intermediate,French,UK,10,N,Male
+157,Imperial Aura,Intermedite,Irish,UK,10,Y,Male
+157,Simply The Betts,Intermediate,Irish,UK,7,Y,Male
+156,Bellshill,Staying,Irish,IRE,10,N,Male
+156,Voix du Reve,Intermediate,French,IRE,8,N,Male
+156,Cash Back,Minimum,French,IRE,8,Y,Male
+156,Brave Eagle,Staying,Irish,UK,8,N,Male
+156,Chosen Mate,Minimum,Irish,IRE,7,Y,Male
+156,Yala Enki,Staying,French,UK,10,N,Male
+156,Diego du Charmil,Minimum,French,UK,8,N,Male
+156,Rouge Vif,Minimum,French,UK,6,Y,Male
+155,Aso,Staying,French,UK,10,N,Male
+155,Cepage,Intermediate,French,UK,8,N,Male
+155,Put The Kettle On,Minimum,Irish,IRE,6,Y,Female
+155,De Rasher Counter,Staying,British,UK,8,N,Male 
+155,Mister Fisher,Intermediate,Irish,UK,6,Y,Male
+155,Kildisart,Staying,Irish,UK,8,N,Male
+155,Ravenhill,Staying,Irish,IRE,10,Y,Male
+155,Truckers Lodge,Staying,Irish,UK,8,Y,Male
+154,Easy Game,Intermediate,French,IRE,6,Y,Male
+154,Esprit du Large,Minimum,French,UK,6,Y,Male
+154,Glen Forsa,Intermediate,Irish,UK,8,N,Male
+154,Magic Saint,Minimum,French,UK,6,N,Male
+154,Itchy Feet,Intermediate,French,UK,6,Y,Male
+154,Marracudja,Minimum,French,UK,9,N,Male
+154,Snow Falcon,Intermeidate,Irish,IRE,10,N,Male
+153,Copperhead,Staying,British,UK,6,Y,Male
+153,Angels Breath,Intermediate,Irish,UK,6,Y,Male
+153,Capeland,Minimum,French,UK,8,N,Male
+153,Kimberlite Candy,Staying,Irish,UK,8,N,Male 
+153,Bachasson,Intermediate,French,IRE,9,N,Male
+153,Eclair de Beaufeu,Minimum,French,IRE,6,Y,Male
+153,Lord du Mesnil,Staying,French,UK,7,Y,Male
+153,Battleoverdoyen,Intermeidate,Irish,IRE,7,Y,Male
+153,Ok Corral,Staying,Irish,UK,10,N,Male
+153,Forest Bihan,Intermediate,French,UK,9,N,Male
+153,Secret Investor,Staying,British,UK,8,N,Male
+153,Happy Diva,Intermediate,Irish,UK,9,N,Female
+153,Lalor,Intermediate,German,UK,8,N,Male
+153,Mister Whitaker,Intermediate,Irish,UK,8,N,Male
+152,Crievehill,Staying,Irish,UK,8,N,Male
+152,Carefully Selected,Intermediate,Irish,IRE,8,Y,Male 
+152,Any Second Now,Minimum,Irish,IRE,8,N,Male
+152,Lake View Lad,Staying,Irish,UK,10,N,Male
+152,Galvin,Intermediate,Irish,IRE,8,Y,Male
+152,Castlegrace Paddy,Minimum,Irish,IRE,9,N,Male
+152,Slate House,Staying,Irish,UK,8,Y,Male
+152,Keeper Hill,Intermediate,Irish,UK,9,N,Male
+152,Global Citizen,Minimum,Irish,UK,8,Y,Male
+152,Nuts Well,Intermediate,British,UK,9,N,Male
+152,Nube Negra,Minimum,Spainish,UK,6,Y,Male
+152,Sam Brown,Intermediate,British,UK,8,Y,Male
+152,Ordinary World,Minimum,Irish,IRE,10,N,Male
+152,Top Notch,Intermediate,French,UK,9,N,Male
+152,Wicklow Brave,Minimum,British,IRE,11,Y,Male
