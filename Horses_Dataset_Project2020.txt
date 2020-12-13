@@ -58,7 +58,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 158,Total Recall,Staying,Irish,IRE,11,N,Male
 158,Peregrine Run,Intermediate,Irish,IRE,10,N,Male
 158,Traffic Fluide,Intermediate,French,UK,10,N,Male
-157,Imperial Aura,Intermedite,Irish,UK,10,Y,Male
+157,Imperial Aura,Intermediate,Irish,UK,10,Y,Male
 157,Simply The Betts,Intermediate,Irish,UK,7,Y,Male
 156,Bellshill,Staying,Irish,IRE,10,N,Male
 156,Voix du Reve,Intermediate,French,IRE,8,N,Male
