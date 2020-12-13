@@ -1,6 +1,6 @@
 Rating,Name,Distance,Bred,Location,Age,Novice,Sex 
 173,Al Boum Photo,Staying,French,IRE,8,N,Male
-173,Cyrname,Intermedate,French,UK,8,N,Male
+173,Cyrname,Intermediate,French,UK,8,N,Male
 172,Santini,Staying,British,UK,8,N,Male 
 172,Chacun Pour Soi,Minimum,French,IRE,8,N,Male
 171,Clan des Obeaux,Staying,French,UK,8,N,Male
@@ -14,7 +14,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 169,Politologue,Minimum,French,UK,9,N,Male
 168,Kemboy,Staying,French,IRE,8,N,Male
 168,Ballyoisin,Minimum,Irish,IRE,9,N,Male
-167,Saint Calvados,Intermeidate,French,UK,7,N,Male
+167,Saint Calvados,Intermediate,French,UK,7,N,Male
 167,A Plus Tard,Minimum,French,IRE,6,N,Male
 166,Native River,Staying,Irish,UK,10,N,Male
 166,Real Steel,Intermediate,French,IRE,7,N,Male
@@ -82,7 +82,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 154,Magic Saint,Minimum,French,UK,6,N,Male
 154,Itchy Feet,Intermediate,French,UK,6,Y,Male
 154,Marracudja,Minimum,French,UK,9,N,Male
-154,Snow Falcon,Intermeidate,Irish,IRE,10,N,Male
+154,Snow Falcon,Intermediate,Irish,IRE,10,N,Male
 153,Copperhead,Staying,British,UK,6,Y,Male
 153,Angels Breath,Intermediate,Irish,UK,6,Y,Male
 153,Capeland,Minimum,French,UK,8,N,Male
@@ -90,7 +90,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 153,Bachasson,Intermediate,French,IRE,9,N,Male
 153,Eclair de Beaufeu,Minimum,French,IRE,6,Y,Male
 153,Lord du Mesnil,Staying,French,UK,7,Y,Male
-153,Battleoverdoyen,Intermeidate,Irish,IRE,7,Y,Male
+153,Battleoverdoyen,Intermediate,Irish,IRE,7,Y,Male
 153,Ok Corral,Staying,Irish,UK,10,N,Male
 153,Forest Bihan,Intermediate,French,UK,9,N,Male
 153,Secret Investor,Staying,British,UK,8,N,Male
