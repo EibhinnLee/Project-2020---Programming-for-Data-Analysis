@@ -7,7 +7,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 171,Altior,Intermediate,Irish,UK,10,N,Male
 171,Lostintranslation,Staying,Irish,UK,8,N,Male
 171,Monalee,Staying,Irish,IRE,9,N,Male
-170,Delta Work,Staying, French,IRE,7,N,Male
+170,Delta Work,Staying,French,IRE,7,N,Male
 169,Bristol de Mai,Staying,French,UK,9,N,Male
 169,Min,Intermediate,French,IRE,9,N,Male
 169,Defi du Seuil,Minimum,French,UK,7,N,Male
@@ -107,7 +107,7 @@ Rating,Name,Distance,Bred,Location,Age,Novice,Sex
 152,Keeper Hill,Intermediate,Irish,UK,9,N,Male
 152,Global Citizen,Minimum,Irish,UK,8,Y,Male
 152,Nuts Well,Intermediate,British,UK,9,N,Male
-152,Nube Negra,Minimum,Spainish,UK,6,Y,Male
+152,Nube Negra,Minimum,Spanish,UK,6,Y,Male
 152,Sam Brown,Intermediate,British,UK,8,Y,Male
 152,Ordinary World,Minimum,Irish,IRE,10,N,Male
 152,Top Notch,Intermediate,French,UK,9,N,Male
